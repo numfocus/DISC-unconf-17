@@ -9,5 +9,8 @@ This repository contains documents and resources on getting started with open so
 
 ## [Diversity and Inclusion Conversation Kit](https://github.com/numfocus/diversity-and-inclusion-conversation-kit)
 
-## [Communicating Feedback as a Service](https://github.com/numfocus/cfaas) (CFaaS)
-cfaas  
+## [Communicating Feedback as a Service](https://github.com/numfocus/CFaaS) (CFaaS)
+This feedback form was designed in the spirit of improving user experiences in the open source community, meetup groups and conferences.   
+
+It is available for any community to copy, edit and use.  
+
