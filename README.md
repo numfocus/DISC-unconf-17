@@ -14,3 +14,5 @@ This feedback form was designed in the spirit of improving user experiences in t
 
 It is available for any community to copy, edit and use.  
 
+## [Algorithm Ethics]
+
