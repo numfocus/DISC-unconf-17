@@ -1,5 +1,4 @@
-# DISC Unconference Projects
-November 2017  
+# DISC Unconference 2017 Projects
 
 ## [Under-represented Groups](https://github.com/numfocus/urg-orgs)
 This project is directory of organizations serving under-represented groups (URGs), that may be of interest to those in scientific computing or interested in entering scientific computing.
