@@ -7,6 +7,7 @@ This project is directory of organizations serving under-represented groups (URG
 This repository contains documents and resources on getting started with open source projects.
 
 ## [Diversity and Inclusion Conversation Kit](https://github.com/numfocus/diversity-and-inclusion-conversation-kit)
+Creating a quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
 
 ## [Communicating Feedback as a Service](https://github.com/numfocus/CFaaS) (CFaaS)
 This feedback form was designed in the spirit of improving user experiences in the open source community, meetup groups and conferences.   
