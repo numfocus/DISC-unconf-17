@@ -14,6 +14,11 @@ This feedback form was designed in the spirit of improving user experiences in t
 It is available for any community to copy, edit and use.  
 
 ## [Algorithm Ethics](https://github.com/numfocus/algorithm-ethics)
+Analyzing the bias in algorithms and the impact of that bias in society
+
+## [DISC Events Guide](https://github.com/numfocus/DISC-Events-Guide
+A guide on how to make events more inclusive
+
 
 
 
