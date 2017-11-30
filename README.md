@@ -18,6 +18,9 @@ A collection of resources and tools designed to provide guidelines for ethical m
 ## [DISC Events Guide](https://github.com/numfocus/DISC-Events-Guide) (Draft - not available yet)
 A guide on how to make events more inclusive
 
+## Diversity Metrics
+Building a diversity and inclusivity survey for NumFOCUS projects and events, and writing a blog about diversity metrics (working in Google docs)
+
 
 
 
