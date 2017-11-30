@@ -8,5 +8,5 @@ This repository contains documents and resources on getting started with open so
 
 ## [Diversity and Inclusion Conversation Kit](https://github.com/numfocus/diversity-and-inclusion-conversation-kit)
 
-## [Communicating Feedback as a Service](https://github.com/numfocus/cfaas)
+## [Communicating Feedback as a Service](https://github.com/numfocus/cfaas) (CFaaS)
 cfaas  
