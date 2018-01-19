@@ -1,5 +1,8 @@
 # DISC Unconference 2017 Projects
 
+## [DISC Events Guide](https://github.com/numfocus/DISCOVER-Cookbook) 
+The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
+
 ## [Under-represented Groups](https://github.com/numfocus/urg-orgs)
 This project is directory of organizations serving under-represented groups (URGs), that may be of interest to those in scientific computing or interested in entering scientific computing.
 
@@ -14,9 +17,6 @@ This feedback form was designed in the spirit of improving user experiences in t
 
 ## [Guidelines for Ethical Modeling](https://github.com/numfocus/algorithm-ethics)
 A collection of resources and tools designed to provide guidelines for ethical modeling, and to support best practices in ethical data science.
-
-## [DISC Events Guide](https://github.com/numfocus/DISC-Events-Guide) (Draft - not available yet)
-A guide on how to make events more inclusive
 
 ## [Diversity Metrics](https://github.com/numfocus/NF-projects-DISC-survey) (Private repo, not yet open)
 Building a diversity and inclusivity survey for NumFOCUS projects and events, and writing a blog about diversity metrics (working in a currently private repo and Google docs)
