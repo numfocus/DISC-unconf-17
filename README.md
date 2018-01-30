@@ -8,6 +8,8 @@ The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Over
 ## [Under-represented Groups](https://github.com/numfocus/urg-orgs)
 This project is directory of organizations serving under-represented groups (URGs), that may be of interest to those in scientific computing or interested in entering scientific computing.
 
+>blog: [A Directory to Increase Diversity & Inclusion](https://www.numfocus.org/directory-increase-diversity-inclusion-notes-disc-unconference/)
+
 ## [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source)
 This repository contains documents and resources on getting started with open source projects.
 
@@ -17,7 +19,6 @@ This repository contains documents and resources on getting started with open so
 Creating a quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
 
 >blog:  [Inclusive Approaches to Recruitment & Outreach — Notes from the DISC Unconference](https://www.numfocus.org/inclusive-approaches-to-recruitment-outreach-notes-from-the-disc-unconference/)
-
 
 ## [Communicating Feedback as a Service](https://github.com/numfocus/CFaaS) (CFaaS)
 This feedback form was designed in the spirit of improving user experiences in the open source community, meetup groups and conferences. It is available for any community to copy, edit and use.  
