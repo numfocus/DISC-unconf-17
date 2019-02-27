@@ -1,6 +1,6 @@
 # DISC Unconference 2017 Projects
 
-## [DISC Events Guide](https://github.com/numfocus/DISCOVER-Cookbook) 
+## [DISC Cookbook for Making Events Inclusive](http://discover-cookbook.numfocus.org) 
 The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
 
 >blog:  [Diverse & Inclusive Events and Conferences Cookbook](https://www.numfocus.org/discover-cookbook/)
